@@ -19,7 +19,7 @@ except:
   exit(1)
 
 _logger = logging.getLogger('MiniOBTest')
-# 测试一下我的修改
+# 测试一下我的修改aa
 
 """
 Case程序自动化运行脚本
